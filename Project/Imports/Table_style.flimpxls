@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsExcelImport
+  SaveWorkbookToFolder="false"
+  WorksheetImportType="topic"
+  PersistFirstRowAsHeader="false"
+  LimitRows="false"
+  LimitRowsCount="30"
+  SaveChartsAs="true"
+  SaveChartsAsType="Png"
+  ConvertEquations="true"
+  ExclusionFilters=""
+  CreateMasterTopic="false"
+  IncludeWorksheetTitlesAsHeadings="false"
+  ImportHiddenRowsColumns="false"
+  KeepSourceLinks="true"
+  AutoSync="false"
+  Stylesheet="file:///C:/Bug Projects/134071/BugBase.css"
+  PreserveSourceStyles="True"
+  LastImport="2017-09-29T15:39:23.8869330-07:00">
+  <Files>
+    <Url
+      Source="../../../../../../../Bug Projects/134636/Table_style.xlsx"
+      AbsoluteSource="file:///C:/Bug Projects/134636/Table_style.xlsx" />
+    <Url
+      Source="../../../../../../../Bug Projects/134636/ImportMeFilters.xlsx"
+      AbsoluteSource="file:///C:/Bug Projects/134636/ImportMeFilters.xlsx" />
+    <Url
+      Source="../../../../../../../Bug Projects/134636/Cash flow tracker1.xlsx"
+      AbsoluteSource="file:///C:/Bug Projects/134636/Cash flow tracker1.xlsx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/TableStyles/Table1.css"
+      TimeStamp="9/29/2017 3:39:06 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Table_style.css"
+      TimeStamp="9/29/2017 3:39:07 PM" />
+    <Url
+      Source="../../Content/Table_style/Table Style.htm"
+      TimeStamp="9/29/2017 3:39:08 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/ImportMeFilters.css"
+      TimeStamp="9/29/2017 3:39:11 PM" />
+    <Url
+      Source="../../Content/Table_style/Sheet1.htm"
+      TimeStamp="9/29/2017 3:39:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Table_style/Cash flow tracker1.xlsx_Chart.png"
+      TimeStamp="9/29/2017 3:39:15 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Cash flow tracker1.css"
+      TimeStamp="9/29/2017 3:39:16 PM" />
+    <Url
+      Source="../../Content/Table_style/Cash Flow Tracker.htm"
+      TimeStamp="9/29/2017 3:39:16 PM" />
+    <Url
+      Source="../../Content/Table_style/Sheet2.htm"
+      TimeStamp="9/29/2017 3:39:16 PM" />
+    <Url
+      Source="../TOCs/Table_style.fltoc"
+      TimeStamp="9/29/2017 3:39:16 PM" />
+  </GeneratedFiles>
+</MsExcelImport>

@@ -1,0 +1,473 @@
+/*<meta sourceDocument="C:\Bug Projects\134636\Cash flow tracker1.xlsx" />*/
+
+table
+{
+	padding: 0;
+	margin: 0;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+
+col
+{
+	width: 65px;
+	padding: 0;
+	margin: 0;
+}
+
+tr
+{
+	height: auto;
+	padding: 0;
+	margin: 0;
+}
+
+td
+{
+	font-family: Calibri;
+	font-size: 11px;
+	background: white;
+	color: black;
+	padding: 0px;
+	border: none;
+}
+
+.Default
+{
+	vertical-align: bottom;
+	font-family: "Arial", "";
+}
+
+.s16
+{
+	
+}
+
+.s17
+{
+	
+}
+
+.s18
+{
+	vertical-align: top;
+	font-family: "Verdana", "Swiss";
+	font-size: 11px;
+	color: #800080;
+	background-color: #C0C0C0;
+}
+
+.s19
+{
+	
+}
+
+.s20
+{
+	vertical-align: top;
+	font-family: "Verdana", "Swiss";
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.s21
+{
+	vertical-align: top;
+	font-family: "Verdana", "Swiss";
+	font-size: 11px;
+	color: #800080;
+	background-color: #E6E6E6;
+}
+
+.s22
+{
+	text-align: center;
+	vertical-align: top;
+	font-family: "Verdana", "Swiss";
+	font-size: 11px;
+	color: #000000;
+	font-weight: bold;
+	background-color: #E6E6E6;
+}
+
+.s23
+{
+	text-align: right;
+	vertical-align: top;
+	font-family: "Verdana", "Swiss";
+	font-size: 11px;
+	color: #000000;
+	font-weight: bold;
+	background-color: #E6E6E6;
+}
+
+.s24
+{
+	vertical-align: top;
+	font-family: "Verdana", "Swiss";
+	color: #800080;
+	font-weight: bold;
+	background-color: #E6E6E6;
+}
+
+.s25
+{
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	font-weight: bold;
+}
+
+.s26
+{
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	color: #000000;
+	font-weight: bold;
+	background-color: #C0C0C0;
+}
+
+.s27
+{
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	font-size: 11px;
+	color: #800080;
+	background-color: #C0C0C0;
+}
+
+.s28
+{
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+}
+
+.s29
+{
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+}
+
+.s30
+{
+	text-align: left;
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	color: #000000;
+	font-weight: bold;
+	background-color: #FFFFCC;
+}
+
+.s31
+{
+	text-align: right;
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	color: #000000;
+	background-color: #FFFFCC;
+}
+
+.s32
+{
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	color: #000000;
+	font-weight: bold;
+	background-color: #FFFFCC;
+}
+
+.s33
+{
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	font-size: 11px;
+	color: #800080;
+	background-color: #FFFFCC;
+}
+
+.s34
+{
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	background-color: #FFFFCC;
+}
+
+.s35
+{
+	text-align: right;
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	color: #000000;
+	background-color: #E6E6E6;
+}
+
+.s36
+{
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	color: #800080;
+	font-weight: bold;
+	background-color: #E6E6E6;
+}
+
+.s37
+{
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	font-size: 11px;
+	color: #800080;
+	background-color: #E6E6E6;
+}
+
+.s38
+{
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	color: #FFFF99;
+	font-weight: bold;
+	background-color: #E6E6E6;
+}
+
+.s39
+{
+	text-align: right;
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	color: #000000;
+	font-weight: bold;
+	background-color: #C0C0C0;
+}
+
+.s40
+{
+	background-color: #C0C0C0;
+}
+
+.s41
+{
+	text-align: right;
+	vertical-align: top;
+	font-family: "Verdana", "Swiss";
+	font-size: 11px;
+	color: #333399;
+	font-weight: bold;
+	background-color: #333399;
+}
+
+.s42
+{
+	text-align: left;
+	vertical-align: top;
+	font-family: "Arial Black", "Swiss";
+	color: #333399;
+	background-color: #333399;
+}
+
+.s43
+{
+	text-align: left;
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	color: #333399;
+	background-color: #333399;
+}
+
+.s44
+{
+	font-family: "Verdana", "Swiss";
+	font-size: 11px;
+	color: #333399;
+	font-weight: bold;
+	background-color: #333399;
+}
+
+.s45
+{
+	background-color: #333399;
+}
+
+.s46
+{
+	text-align: center;
+	vertical-align: top;
+	font-family: "Verdana", "Swiss";
+	color: #FFFFFF;
+	font-weight: bold;
+	background-color: #333399;
+}
+
+.s47
+{
+	text-align: center;
+	vertical-align: top;
+	font-family: "Arial Black", "Swiss";
+	color: #FFFFFF;
+	background-color: #333399;
+}
+
+.s48
+{
+	vertical-align: middle;
+	background-color: #333399;
+}
+
+.s49
+{
+	text-align: center;
+	vertical-align: middle;
+	font-family: "Verdana", "Swiss";
+	color: #FFFFFF;
+	font-weight: bold;
+	background-color: #333399;
+}
+
+.s50
+{
+	text-align: center;
+	vertical-align: middle;
+	font-family: "Arial Black", "Swiss";
+	color: #FFFFFF;
+	background-color: #333399;
+}
+
+.s51
+{
+	vertical-align: middle;
+}
+
+.s52
+{
+	text-align: left;
+	vertical-align: top;
+	font-family: "Arial Black", "Swiss";
+	font-size: 11px;
+	color: #FFFFFF;
+	background-color: #333399;
+}
+
+.s53
+{
+	text-align: center;
+	vertical-align: top;
+	font-family: "Arial Narrow", "Swiss";
+	color: #333399;
+	background-color: #333399;
+}
+
+.s54
+{
+	background-color: #333399;
+}
+
+.s55
+{
+	text-align: left;
+	vertical-align: bottom;
+	background-color: #333399;
+}
+
+.s56
+{
+	vertical-align: top;
+	font-family: "Verdana", "Swiss";
+	color: #333399;
+	font-weight: bold;
+	background-color: #333399;
+}
+
+.s57
+{
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	color: #333399;
+	background-color: #333399;
+}
+
+.s58
+{
+	font-family: "Arial", "";
+	color: #333399;
+	background-color: #333399;
+}
+
+.s59
+{
+	font-family: "Arial", "";
+	color: #333399;
+	background-color: #333399;
+}
+
+.s60
+{
+	font-family: "Verdana", "Swiss";
+	font-size: 11px;
+	color: #333399;
+	font-weight: bold;
+	background-color: #333399;
+}
+
+.s61
+{
+	text-align: left;
+	vertical-align: middle;
+	font-family: "Arial Black", "Swiss";
+	font-size: 11px;
+	color: #FFFFFF;
+	background-color: #333399;
+}
+
+.s62
+{
+	text-align: left;
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	font-weight: bold;
+	background-color: #FFFFCC;
+}
+
+.s63
+{
+	text-align: center;
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	background-color: #333399;
+}
+
+.s64
+{
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	color: #333399;
+	font-weight: bold;
+	background-color: #333399;
+}
+
+.s72
+{
+	text-align: center;
+	vertical-align: bottom;
+	font-family: "Arial Black", "Swiss";
+	font-size: 24px;
+	color: #FFFFFF;
+	background-color: #333399;
+}
+
+.s74
+{
+	text-align: center;
+	vertical-align: top;
+	font-family: "Arial", "Swiss";
+	color: #000000;
+	font-weight: bold;
+	background-color: #E6E6E6;
+}
+
+.s76
+{
+	text-align: center;
+	vertical-align: middle;
+	font-family: "Arial", "Swiss";
+	color: #FFFFFF;
+	font-weight: bold;
+	background-color: #333399;
+}
+
